@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 - Implemented voice-to-text functionality using OpenAI Whisper for seamless audio input processing and user accessibility
 - Integrated Gemini 1.5 AI model for generating accurate medical advice and health recommendations based on user queries
 
-[GitHub](https://github.com/lakhman108/DUhacks-4.0){:target="_blank"} | [WhatsApp Demo](https://wa.me/918401372294){:target="_blank"}
+[GitHub](https://github.com/lakhman108/DUhacks-4.0){:target="_blank"} | [Website](https://arogya-setu-client.vercel.app){:target="_blank"}
 
 ---
 
@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
 - Engineered multiple REST API endpoints for comprehensive user management, authentication, and content handling using JWT tokens
 - Implemented CI/CD pipeline with Docker containerization for automated deployment and infrastructure management
 - Containerized Backend and deployed on Azure with frontend on Vercel
-
+- Uses Aws S3 for storing videos.
 [GitHub](https://github.com/lakhman108/sarthi){:target="_blank"} | [Live Demo](https://sarthi-zeta.vercel.app){:target="_blank"}
 
 ---
