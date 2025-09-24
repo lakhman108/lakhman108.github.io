@@ -36,8 +36,6 @@ Grounded in simplicity and self-discipline, I take pride in blending tradition (
 
 ---
 
-## Coding Profiles
-
  
 ## Coding Profiles
 
