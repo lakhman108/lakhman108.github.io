@@ -70,26 +70,3 @@ Here are some of the projects I've worked on:
 
 ---
 
-## Achievements & Competitive Programming
-
-**🏆 Hackathons & Competitions**
-- **DU Hacks 4.0:** Top 15 among 5,000+ participants, 1st place in Medical Category
-- **CodeQuest ICPC Winner:** Secured 1st position in competitive programming contest at GDSC DDU
-
-**💻 Coding Platforms**
-- **LeetCode:** 260+ problems solved with rating 1410+ ([Profile](https://leetcode.com/u/lakhman737/){:target="_blank"})
-- **Codeforces:** Maximum rating achieved: 1063 ([Profile](https://codeforces.com/profile/lakhman737){:target="_blank"})
-
-**🎓 Academic Excellence**
-- **SSC Excellence Award:** Achieved top 10 rank and received gold medal for academic excellence (92.17% - 99.69 Percentile)
-
----
-
-## Education
-
-**Bachelor of Technology in Computer Engineering**
-Dharmsinh Desai University, Nadiad | CGPA: 7.58/10.00 | 2022 - 2026
-
----
-
-> Want to collaborate on a project? Feel free to [reach out](mailto:luckyparmar737@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/parmar-lakhman-5a876825b/){:target="_blank"}!
